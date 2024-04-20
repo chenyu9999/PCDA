@@ -19,10 +19,9 @@ mybatis:
     map-underscore-to-camel-case: true
 #    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
-
 gpt:
   model:
-    key: "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"
+    key: ""
   proxy:
    host: 127.0.0.1
    port: 7890
